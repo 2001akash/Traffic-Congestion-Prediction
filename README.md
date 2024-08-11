@@ -52,10 +52,7 @@ When the code is executed, it will produce:
 - Predictions for the first few data points, comparing actual and predicted traffic volumes.
 - A prediction for a given input, indicating the level of traffic (No Traffic, Busy, Heavy, or Worst Case).
 - Mean Absolute Error for the test set, indicating the model's accuracy.
+ 
 
-## Contributing
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Make your changes and commit them.
-3. Create a pull request, describing your changes.
-
+ ## Run the following command
+ python test.py
